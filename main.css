@@ -1,0 +1,39 @@
+header {
+  background-color: #00272B;
+  font-family: 'Trispace', sans-serif;
+}
+
+main {
+  background-color: #00272B;
+  font-family: 'Trispace', sans-serif;
+}
+
+body {
+  background-color: #00272B;
+  font-family: 'Trispace', sans-serif;
+  width: auto;
+}
+
+p {
+  color: #E0FF4F;
+}
+
+h1 {
+  color: #E0FF4F;
+}
+
+h3 {
+  color: #E0FF4F;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
+.imageContainer {
+  border: #E0FF4F 1px solid;
+  padding: 0px 8px 0px 8px;
+  height: auto;
+}
