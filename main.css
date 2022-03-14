@@ -37,3 +37,10 @@ img {
   padding: 0px 8px 0px 8px;
   height: auto;
 }
+
+label {
+  color: #E0FF4F;
+}
+#start {
+  margin-bottom: 10px;
+}
